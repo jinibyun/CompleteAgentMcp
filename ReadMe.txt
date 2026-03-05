@@ -2,3 +2,7 @@ Udemy: https://www.udemy.com/course/the-complete-agentic-ai-engineering-course/l
 GitHub Link: https://github.com/ed-donner/agents
 UV pakcage manager installation:
     > powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
+
+>uv sync
+
+set and get open ai api key in .env file
